@@ -1,0 +1,60 @@
+div{
+   width:50%;
+   height: 300px;
+   text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+  
+}
+
+a{
+    margin-right: 15px;
+      text-decoration:none ;
+}
+
+section{
+     background-color: rgb(231, 118, 84);
+     display: flex;
+}
+
+img{
+  margin:10px;
+  width: 350px;
+  height: 300px;
+}
+
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 500px;
+  height: 150px;
+}
+
+td{
+  border:1px solid black ;
+}
+
+.www{
+  background-color: white;
+  display: flex;
+  justify-content:center ;
+}
+
+tr:first-child{
+  background-color: rgb(231, 118, 84);
+}
+
+.uuu{
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+}
+
+h3{
+  text-align:left;
+}
+
+
+    
